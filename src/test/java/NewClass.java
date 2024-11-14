@@ -14,5 +14,8 @@ public class NewClass {
 	public void newtest() {
 		driver.get("https://www.flipkart.com");
 	}
-	
+	@Test
+	public void netest2(){
+		
+	}
 }
